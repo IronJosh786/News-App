@@ -1,0 +1,62 @@
+:root {
+    --clr-dark: #010001;
+    --clr-light: #B9B8B6;
+    --clr-accent: #E11D48;
+
+    --size-xxs: 0.5rem;
+    --size-xs: 0.75rem;
+    --size-sm: 0.875rem;
+    --size-base: 1rem;
+    --size-lg: 1.125rem;
+    --size-xl: 1.25rem;
+    --size-2xl: 1.5rem;
+    --size-3xl: 1.875rem;
+    --size-4xl: 2.25rem;
+    --size-5xl: 3rem; 
+}
+
+* {
+    margin: 0;
+    line-height: calc(1em + 0.5rem);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h3, h6, li {
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    color: var(--clr-light);
+    background-color: var(--clr-dark);
+    font-family: 'Poppins', sans-serif;
+}
+
+button {
+    display: inline-block;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: inherit;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+img, 
+picture, 
+video,
+canvas, 
+svg {
+    display: block;
+    max-width: 100%;
+    user-select: none;
+}
