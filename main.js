@@ -67,6 +67,16 @@ submit.addEventListener("click", function() {
     }
 });
 
+document.addEventListener("keydown", function(e) {
+    const key = e.key;
+    if(key==="Enter") {
+        const text = document.querySelector("#search-text").value;
+        fetchNews(text);
+        currentNav?.classList.remove("active");
+        currentNav = null;
+    }
+})
+
 const logo = document.querySelector("#logo-image");
 logo.addEventListener("click", function() {
     window.location.reload();
