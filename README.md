@@ -6,4 +6,6 @@ Due to the requirement of a priced plan for live API access, the News App is dem
 
 The application enables users to explore news articles by utilizing a search bar. Additionally, it offers navigation links for convenient access to popular topics such as technology, economics, and health.
 
-The application is completely responsive and adapts gracefully to different screen sizes. Desktop view (), Tablet view () and Mobile view () can be found here.  
+The application is completely responsive and adapts gracefully to different screen sizes. Desktop view (https://github.com/IronJosh786/News-App/blob/main/desktopView.png), Tablet view (https://github.com/IronJosh786/News-App/blob/main/tabletView.png) and Mobile view (https://github.com/IronJosh786/News-App/blob/main/mobileView.png) can be found here.
+
+Access it here (without news): https://ironjosh786.github.io/News-App/
