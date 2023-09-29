@@ -27,19 +27,19 @@ Access it here (without news): https://ironjosh786.github.io/News-App/
 
 6. Save the changes to main.js.
 
-Running the App
+### Running the App
 
 Open the index.html file in your web browser to view the news app.
 
-Usage
+### Usage
 
 Use the search bar to find news articles based on specific topics.
 Explore predefined topics using the navigation links.
 
-Contributing
+### Contributing
 
 Feel free to contribute to the development of this app by submitting issues and pull requests.
 
-Acknowledgments
+### Acknowledgments
 
 News API for providing the news data.
